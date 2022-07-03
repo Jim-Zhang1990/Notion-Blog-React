@@ -3,7 +3,7 @@
 module.exports = {
     global: {
         author: {
-            name: 'Zhen ZHang',
+            name: 'Zhen Zhang',
             github: 'https://github.com/Jim-Zhang1990',
             email: 'oli@oli-investing.cc',
         },
