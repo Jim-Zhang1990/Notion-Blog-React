@@ -20,9 +20,6 @@ module.exports = {
             header: {
                 description: "Oli's investing notes",
             },
-            license: {
-        
-            },
         },
         analytics: {
             google: '',
